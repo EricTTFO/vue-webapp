@@ -10,8 +10,6 @@
       </p>
       <GoodList :data="goodslist" />
     </div>
-
-    <!-- <Footer :data="navs" /> -->
   </div>
 </template>
 
@@ -64,7 +62,6 @@ export default class Home extends Vue {
   mounted() {}
 }
 </script>
-
 
 <style lang="scss" scoped>
 .column-title {

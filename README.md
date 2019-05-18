@@ -51,7 +51,7 @@ npm run build
 ├── babel.config.js                      # babel配置文件
 ├── package-lock.json                    
 ├── package.json  
-├── public                               # 公用目录 （存在首页入口文件、静态资源）
+├── public                               # 公用目录 （存在入口文件、静态资源）
 ├── src                                  # 核心代码目录
 │   ├── App.vue                          # 组件入口文件
 │   ├── api                              # 接口服务
